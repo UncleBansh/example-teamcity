@@ -84,8 +84,8 @@ object Testing : BuildType({
 })
 
 object HttpsGithubComAragastmatbExampleTeamcityGitRefsHeadsMaster : GitVcsRoot({
-    name = "https://github.com/aragastmatb/example-teamcity.git#refs/heads/master"
-    url = "https://github.com/aragastmatb/example-teamcity.git"
+    name = "https://github.com/UncleBansh/example-teamcity.git#refs/heads/master"
+    url = "https://github.com/UncleBansh/example-teamcity.git"
     branch = "refs/heads/master"
     branchSpec = "refs/heads/*"
     authMethod = password {
